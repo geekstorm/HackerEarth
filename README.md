@@ -6,3 +6,7 @@ Some C/C++ as well
 
 Other Technologies: 
 UI: jquery, bootstrap, AngularJS
+
+Build: Jenkins, Docker, 
+
+Big Data: Hadoop.
